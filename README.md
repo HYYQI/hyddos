@@ -1,7 +1,15 @@
 # hyddos
 python的简单ddos程序
+<br>
 用于Linux系统
-python版本要求: Python 3.x
+
+<h1 color=red>请勿用于非法用途</h1>
+
+#### python版本
+Python 3.x
+
+### 原作者
+[Andysun06](https://github.com/Andysun06)
 
 ### 原自述文件
 [readme_Andysun](README_Andysun.md)
